@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/dillon-porter/react-advice-generator/static/js/main.cf7b39fc.js",
-    "index.html": "/dillon-porter/react-advice-generator/index.html",
-    "main.cf7b39fc.js.map": "/dillon-porter/react-advice-generator/static/js/main.cf7b39fc.js.map"
+    "main.js": "/react-advice-generator/static/js/main.cf7b39fc.js",
+    "index.html": "/react-advice-generator/index.html",
+    "main.cf7b39fc.js.map": "/react-advice-generator/static/js/main.cf7b39fc.js.map"
   },
   "entrypoints": [
     "static/js/main.cf7b39fc.js"
